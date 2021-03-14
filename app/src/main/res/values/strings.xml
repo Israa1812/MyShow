@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyShow</string>
+    <string name="name_text">enter your name</string>
+    <string name="btn_text">show name</string>
+</resources>
